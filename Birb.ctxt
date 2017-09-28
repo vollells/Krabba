@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Birb
+comment0.text=\n\ Write\ a\ description\ of\ class\ Birb\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Birb\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ lookForLobster()
+comment2.text=\n\ Check\ if\ we\ are\ on\ a\ Crab\ or\ not,\ if\ we\ are\ we\ eat\ it\ otherwise\ we\ continue\n\ whitout\ doing\ anything\n
+comment3.params=
+comment3.target=void\ worldEdge()
+comment3.text=\n\ If\ at\ world\ edge\ turn\ 17\ degrees\n
+comment4.params=
+comment4.target=void\ turnBirb()
+comment5.params=
+comment5.target=void\ moveBirb()
+numComments=6
